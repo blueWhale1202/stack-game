@@ -19,6 +19,11 @@ Stack Game is a fun and addictive arcade-style game where players must carefully
 4. Keep stacking until no more blocks can fit.
 5. Aim for the highest score and challenge your friends!
 
+## Preview
+
+![image](https://github.com/user-attachments/assets/d69b083c-9c9d-4b77-a43b-07fd2db9094b)
+
+
 ## Installation
 
 ### Play Online
